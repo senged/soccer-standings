@@ -1,142 +1,142 @@
-TOWN_TEAM
-Amesbury Gators
-Amesbury STORM
-Amesbury Storm
-Andover Akers
-Andover Arsenal
-Andover Chastain
-Andover Dunn
-Andover Everton
-Andover Fawcett
-Andover Foudy
-Andover Lavelle
-Andover Liverpool
-Andover Manchester United
-Andover Morgan
-Andover O'Hara
-Andover Press
-Andover Rapinoe
-Andover Tottenham Hotspur
-Beverly Barnacles
-Beverly Bengals
-Beverly Bobcats
-Beverly Lynx
-Beverly Wolves
-Danvers BREAKERS
-Danvers PRIDE
-Danvers REIGN
-Danvers ROYALS FC
-Danvers SKY BLUE
-Danvers THORNS FC
-Dracut Condors
-Dracut Eagles
-Dracut Liverpool
-Dracut Ravens
-Fishermen Hurricanes
-Georgetown Chaos
-Georgetown Courage
-Georgetown Jaguars
-Georgetown Love and Thunder
-Georgetown Royal Resistance
-Georgetown Tsunamis
-Hamilton-Wenham Aviators
-Hamilton-Wenham Firestorm
-Hamilton-Wenham Gale
-Hamilton-Wenham Nor
-Hamilton-Wenham Nor'easters
-Hamilton-Wenham Pilots
-Hamilton-Wenham Tornado
-Hamilton-Wenham Windstorm
-Hamilton-Wenham Wingers
-Haverhill STRIKERS
-Haverhill VALKYRIES
-Ipswich Bobcats
-Ipswich Cheetahs
-Ipswich Panthers
-Ipswich Sparks
-Ipswich Tigers
-Lawrence BULLDOGS
-Lynn FIREFLIES
-Lynn RAVENS
-Lynnfield BREAKERS
-Lynnfield Dash
-Lynnfield PRIDE
-Lynnfield REIGN
-Lynnfield Reign
-Lynnfield SPIRIT
-Lynnfield Spirit
-Manchester-Essex Lobsters
-Manchester-Essex Sharks
-Marblehead ARSENAL
-Marblehead BRIGADES
-Marblehead COMMANDERS
-Marblehead MILITIA
-Marblehead PATRIOTS
-Marblehead VOLUNTEERS
-Methuen BANDITS
-Methuen LEGENDZ
-Methuen SCREAMING BANSHEES
-Methuen STRIKERS
-Newburyport Blizzard
-Newburyport Hurricanes
-Newburyport Lightning
-Newburyport Storm
-Newburyport Tornadoes
-North Andover INFERNO
-North Andover Inferno
-North Andover Knightmares
-North Andover Red Runners
-North Andover Red Wave
-North Andover STORM
-North Andover WILDFIRE
-North Andover Wildfire
-North Reading Goal Diggers
-North Reading Stingers
-North Reading Strikers
-North Reading Surge
-North Reading Swarm
-North Reading Thunder
-Peabody Breakers
-Peabody Fury
-Peabody Lasers
-Peabody Majestic
-Pentucket Breakers
-Pentucket Pride
-Pentucket Sirens
-Revere CYCLONES
-Revere LIGTHNING
-Rockport Strikers
-Salem Ghost Dogs
-Salem Hurricanes
-Salem Witches
-Saugus LADY SACHEMS
-Saugus Patriots
-Swampscott Blue Angels
-Swampscott Blue Comets
-Swampscott Blue Steele
-Swampscott Blue Thunder
-Topsfield Masco Breakers
-Topsfield Masco Chaos
-Topsfield Masco Flash
-Topsfield Masco Force
-Topsfield Masco Storm
-Topsfield Masco Supernovas
-Topsfield Masco Tsunami
-Topsfield Masco Typhoon
-Topsfield Masco United
-Topsfield Masco Vipers
-Triton BREAKAWAYS
-Triton FURY
-Triton HURRICANES
-Triton LIGHTNING
-Wakefield Celtic
-Wakefield Fire
-Wakefield Olympiakos
-Wakefield Rangers
-Wakefield Wanderers
-Winthrop Hurricanes
-Winthrop Seasiders
-Winthrop Waves
-Woburn Cobras
-Woburn Inferno
-Woburn Storm
+TOWN_TEAM,TOWN,TEAM
+Amesbury Gators,Amesbury, Gators
+Amesbury STORM,Amesbury, STORM
+Amesbury Storm,Amesbury, Storm
+Andover Akers,Andover, Akers
+Andover Arsenal,Andover, Arsenal
+Andover Chastain,Andover, Chastain
+Andover Dunn,Andover, Dunn
+Andover Everton,Andover, Everton
+Andover Fawcett,Andover, Fawcett
+Andover Foudy,Andover, Foudy
+Andover Lavelle,Andover, Lavelle
+Andover Liverpool,Andover, Liverpool
+Andover Manchester United,Andover, Manchester United
+Andover Morgan,Andover, Morgan
+Andover O'Hara,Andover, O'Hara
+Andover Press,Andover, Press
+Andover Rapinoe,Andover, Rapinoe
+Andover Tottenham Hotspur,Andover, Tottenham Hotspur
+Beverly Barnacles,Beverly, Barnacles
+Beverly Bengals,Beverly, Bengals
+Beverly Bobcats,Beverly, Bobcats
+Beverly Lynx,Beverly, Lynx
+Beverly Wolves,Beverly, Wolves
+Danvers BREAKERS,Danvers, BREAKERS
+Danvers PRIDE,Danvers, PRIDE
+Danvers REIGN,Danvers, REIGN
+Danvers ROYALS FC,Danvers, ROYALS FC
+Danvers SKY BLUE,Danvers, SKY BLUE
+Danvers THORNS FC,Danvers, THORNS FC
+Dracut Condors,Dracut, Condors
+Dracut Eagles,Dracut, Eagles
+Dracut Liverpool,Dracut, Liverpool
+Dracut Ravens,Dracut, Ravens
+Fishermen Hurricanes,,
+Georgetown Chaos,Georgetown, Chaos
+Georgetown Courage,Georgetown, Courage
+Georgetown Jaguars,Georgetown, Jaguars
+Georgetown Love and Thunder,Georgetown, Love and Thunder
+Georgetown Royal Resistance,Georgetown, Royal Resistance
+Georgetown Tsunamis,Georgetown, Tsunamis
+Hamilton-Wenham Aviators,Hamilton-Wenham, Aviators
+Hamilton-Wenham Firestorm,Hamilton-Wenham, Firestorm
+Hamilton-Wenham Gale,Hamilton-Wenham, Gale
+Hamilton-Wenham Nor,Hamilton-Wenham, Nor
+Hamilton-Wenham Nor'easters,Hamilton-Wenham, Nor'easters
+Hamilton-Wenham Pilots,Hamilton-Wenham, Pilots
+Hamilton-Wenham Tornado,Hamilton-Wenham, Tornado
+Hamilton-Wenham Windstorm,Hamilton-Wenham, Windstorm
+Hamilton-Wenham Wingers,Hamilton-Wenham, Wingers
+Haverhill STRIKERS,Haverhill, STRIKERS
+Haverhill VALKYRIES,Haverhill, VALKYRIES
+Ipswich Bobcats,Ipswich, Bobcats
+Ipswich Cheetahs,Ipswich, Cheetahs
+Ipswich Panthers,Ipswich, Panthers
+Ipswich Sparks,Ipswich, Sparks
+Ipswich Tigers,Ipswich, Tigers
+Lawrence BULLDOGS,Lawrence, BULLDOGS
+Lynn FIREFLIES,Lynn, FIREFLIES
+Lynn RAVENS,Lynn, RAVENS
+Lynnfield BREAKERS,Lynn,field BREAKERS
+Lynnfield Dash,Lynn,field Dash
+Lynnfield PRIDE,Lynn,field PRIDE
+Lynnfield REIGN,Lynn,field REIGN
+Lynnfield Reign,Lynn,field Reign
+Lynnfield SPIRIT,Lynn,field SPIRIT
+Lynnfield Spirit,Lynn,field Spirit
+Manchester-Essex Lobsters,Manchester-Essex, Lobsters
+Manchester-Essex Sharks,Manchester-Essex, Sharks
+Marblehead ARSENAL,Marblehead, ARSENAL
+Marblehead BRIGADES,Marblehead, BRIGADES
+Marblehead COMMANDERS,Marblehead, COMMANDERS
+Marblehead MILITIA,Marblehead, MILITIA
+Marblehead PATRIOTS,Marblehead, PATRIOTS
+Marblehead VOLUNTEERS,Marblehead, VOLUNTEERS
+Methuen BANDITS,Methuen, BANDITS
+Methuen LEGENDZ,Methuen, LEGENDZ
+Methuen SCREAMING BANSHEES,Methuen, SCREAMING BANSHEES
+Methuen STRIKERS,Methuen, STRIKERS
+Newburyport Blizzard,Newburyport, Blizzard
+Newburyport Hurricanes,Newburyport, Hurricanes
+Newburyport Lightning,Newburyport, Lightning
+Newburyport Storm,Newburyport, Storm
+Newburyport Tornadoes,Newburyport, Tornadoes
+North Andover INFERNO,North Andover, INFERNO
+North Andover Inferno,North Andover, Inferno
+North Andover Knightmares,North Andover, Knightmares
+North Andover Red Runners,North Andover, Red Runners
+North Andover Red Wave,North Andover, Red Wave
+North Andover STORM,North Andover, STORM
+North Andover WILDFIRE,North Andover, WILDFIRE
+North Andover Wildfire,North Andover, Wildfire
+North Reading Goal Diggers,North Reading, Goal Diggers
+North Reading Stingers,North Reading, Stingers
+North Reading Strikers,North Reading, Strikers
+North Reading Surge,North Reading, Surge
+North Reading Swarm,North Reading, Swarm
+North Reading Thunder,North Reading, Thunder
+Peabody Breakers,Peabody, Breakers
+Peabody Fury,Peabody, Fury
+Peabody Lasers,Peabody, Lasers
+Peabody Majestic,Peabody, Majestic
+Pentucket Breakers,Pentucket, Breakers
+Pentucket Pride,Pentucket, Pride
+Pentucket Sirens,Pentucket, Sirens
+Revere CYCLONES,Revere, CYCLONES
+Revere LIGTHNING,Revere, LIGTHNING
+Rockport Strikers,Rockport, Strikers
+Salem Ghost Dogs,Salem, Ghost Dogs
+Salem Hurricanes,Salem, Hurricanes
+Salem Witches,Salem, Witches
+Saugus LADY SACHEMS,Saugus, LADY SACHEMS
+Saugus Patriots,Saugus, Patriots
+Swampscott Blue Angels,Swampscott, Blue Angels
+Swampscott Blue Comets,Swampscott, Blue Comets
+Swampscott Blue Steele,Swampscott, Blue Steele
+Swampscott Blue Thunder,Swampscott, Blue Thunder
+Topsfield Masco Breakers,Topsfield, Masco Breakers
+Topsfield Masco Chaos,Topsfield, Masco Chaos
+Topsfield Masco Flash,Topsfield, Masco Flash
+Topsfield Masco Force,Topsfield, Masco Force
+Topsfield Masco Storm,Topsfield, Masco Storm
+Topsfield Masco Supernovas,Topsfield, Masco Supernovas
+Topsfield Masco Tsunami,Topsfield, Masco Tsunami
+Topsfield Masco Typhoon,Topsfield, Masco Typhoon
+Topsfield Masco United,Topsfield, Masco United
+Topsfield Masco Vipers,Topsfield, Masco Vipers
+Triton BREAKAWAYS,Triton, BREAKAWAYS
+Triton FURY,Triton, FURY
+Triton HURRICANES,Triton, HURRICANES
+Triton LIGHTNING,Triton, LIGHTNING
+Wakefield Celtic,Wakefield, Celtic
+Wakefield Fire,Wakefield, Fire
+Wakefield Olympiakos,Wakefield, Olympiakos
+Wakefield Rangers,Wakefield, Rangers
+Wakefield Wanderers,Wakefield, Wanderers
+Winthrop Hurricanes,Winthrop, Hurricanes
+Winthrop Seasiders,Winthrop, Seasiders
+Winthrop Waves,Winthrop, Waves
+Woburn Cobras,Woburn, Cobras
+Woburn Inferno,Woburn, Inferno
+Woburn Storm,Woburn, Storm
